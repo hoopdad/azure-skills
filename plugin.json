@@ -1,0 +1,19 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "azure-skills",
+  "version": "1.0.0",
+  "description": "Mike's blog-derived Azure network architecture and engineering IP, packaged as reusable skills for design reviews, DNS/Private Link validation, ASE planning, managed identity audits, and Terraform module decomposition.",
+  "author": {
+    "name": "Mike Olivieri"
+  },
+  "license": "MIT",
+  "keywords": [
+    "azure",
+    "networking",
+    "private-link",
+    "dns",
+    "ase",
+    "managed-identity",
+    "terraform"
+  ]
+}
